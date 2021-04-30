@@ -1,0 +1,59 @@
+.chalice/deployments/
+.chalice/venv/
+
+target/
+*.pydevproject
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.idea
+.venv
+
+# Eclipse Core
+.project
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# TeXlipse plugin
+.texlipse
+
+# STS (Spring Tool Suite)
+.springBeans
+test-output
+.checkstyle
+
+metastore_db
+derby.log
+*/src/main/resources/git.properties
+git.properties
+.DS_Store
+native-libs/
+*.versionsBackup
+*.ipr
+*.iws
