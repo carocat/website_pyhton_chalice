@@ -1,6 +1,9 @@
 .chalice/deployments/
 .chalice/venv/
 
+__pycache__/
+wrangling_scripts/__pycache__/
+
 target/
 *.pydevproject
 .metadata
